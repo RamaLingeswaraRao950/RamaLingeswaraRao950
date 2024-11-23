@@ -58,7 +58,6 @@ Enthusiastic Full Stack Developer with solid foundation in frontend and backend 
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramalingeswararao950&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramalingeswararao950&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
