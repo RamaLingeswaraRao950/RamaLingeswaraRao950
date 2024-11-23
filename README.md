@@ -1,5 +1,5 @@
 # 💫 About Me:
-Looking for an opportunity to be part of a collaborative environment where I can leverage my knowledge in emerging technologies to create intuitive and efficient software applications, making a significant impact on the organization<br>I’m currently working on Web Application for Sri Venkateswara College Of Engineering and Technology(SVCET)
+Enthusiastic Full Stack Developer with solid foundation in frontend and backend technologies. Proficient in creating web applications and full-stack projects. Looking for an opportunity to be part of a collaborative environment where I can leverage my knowledge in emerging technologies to create intuitive and efficient software applications, making a significant impact on the organization.
 
 
 ## 🌐 Socials:
